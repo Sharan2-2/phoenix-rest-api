@@ -1,6 +1,7 @@
 # PhoenixApi
+username sreekuttyr22 
 
-To start your Phoenix server:
+To start your Phoenix server: Snapchat 
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.setup`
